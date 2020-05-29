@@ -41,14 +41,6 @@ const DBService = class {
         }
     }
 
-    getTestData = () => {
-        return this.getData('test.json');
-    }
-
-    getTestCard = () => {
-        return this.getData('card.json');
-    }
-
     getSearchResult = (query) => {
         this.temp = `${SERVER}/search/tv?api_key=${API_KEY}&query=${query}&language=ru-RU`;
         return this.getData(this.temp);
