@@ -1,2 +1,2 @@
 ## Online cinema Netclicks
-To find a serial or a film for the evening click [here](https://dbublienko.github.io/netclicks/src/index.html)
+To find a TV show or movie for the evening click [here](https://dbublienko.github.io/netclicks/src/index.html) :)
